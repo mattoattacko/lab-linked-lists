@@ -1,3 +1,5 @@
+[![Build Status](https://www.travis-ci.com/mattoattacko/lab-linked-lists.svg?branch=master)](https://www.travis-ci.com/mattoattacko/lab-linked-lists)
+
 ![cf](http://i.imgur.com/7v5ASc8.png) Linked List Data Structure
 ================================================================
 
