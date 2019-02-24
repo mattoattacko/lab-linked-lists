@@ -1,6 +1,6 @@
 'use strict';
 
-const Node = require('../../lib/node.js');
+const Node = require('../lib/node.js');
 
 describe('Node Module', () => {
 
